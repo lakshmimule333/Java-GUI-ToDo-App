@@ -57,3 +57,4 @@ Apply Swing components effectively.
 Use event-driven programming to handle user actions.
 Organize code for better readability and maintenance.
 OUTPUT :
+<img width="1919" height="996" alt="Image" src="https://github.com/user-attachments/assets/8c68a96a-6c9e-4be6-8c93-2d05147fcc97" />
